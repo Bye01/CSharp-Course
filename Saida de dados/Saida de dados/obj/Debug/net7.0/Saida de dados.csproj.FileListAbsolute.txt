@@ -1,0 +1,15 @@
+D:\Repositorio\Saida de dados\Saida de dados\obj\Debug\net7.0\Saida de dados.csproj.AssemblyReference.cache
+D:\Repositorio\Saida de dados\Saida de dados\obj\Debug\net7.0\Saida de dados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio\Saida de dados\Saida de dados\obj\Debug\net7.0\Saida de dados.AssemblyInfoInputs.cache
+D:\Repositorio\Saida de dados\Saida de dados\obj\Debug\net7.0\Saida de dados.AssemblyInfo.cs
+D:\Repositorio\Saida de dados\Saida de dados\obj\Debug\net7.0\Saida de dados.csproj.CoreCompileInputs.cache
+D:\Repositorio\Saida de dados\Saida de dados\bin\Debug\net7.0\Saida de dados.exe
+D:\Repositorio\Saida de dados\Saida de dados\bin\Debug\net7.0\Saida de dados.deps.json
+D:\Repositorio\Saida de dados\Saida de dados\bin\Debug\net7.0\Saida de dados.runtimeconfig.json
+D:\Repositorio\Saida de dados\Saida de dados\bin\Debug\net7.0\Saida de dados.dll
+D:\Repositorio\Saida de dados\Saida de dados\bin\Debug\net7.0\Saida de dados.pdb
+D:\Repositorio\Saida de dados\Saida de dados\obj\Debug\net7.0\Saida de dados.dll
+D:\Repositorio\Saida de dados\Saida de dados\obj\Debug\net7.0\refint\Saida de dados.dll
+D:\Repositorio\Saida de dados\Saida de dados\obj\Debug\net7.0\Saida de dados.pdb
+D:\Repositorio\Saida de dados\Saida de dados\obj\Debug\net7.0\Saida de dados.genruntimeconfig.cache
+D:\Repositorio\Saida de dados\Saida de dados\obj\Debug\net7.0\ref\Saida de dados.dll
