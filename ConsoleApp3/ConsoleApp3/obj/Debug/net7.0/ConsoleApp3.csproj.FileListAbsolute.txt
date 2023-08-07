@@ -1,0 +1,15 @@
+D:\Repositorio\ConsoleApp3\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.exe
+D:\Repositorio\ConsoleApp3\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.deps.json
+D:\Repositorio\ConsoleApp3\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.runtimeconfig.json
+D:\Repositorio\ConsoleApp3\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.dll
+D:\Repositorio\ConsoleApp3\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.pdb
+D:\Repositorio\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.csproj.AssemblyReference.cache
+D:\Repositorio\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\Repositorio\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.AssemblyInfo.cs
+D:\Repositorio\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Repositorio\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.dll
+D:\Repositorio\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\refint\ConsoleApp3.dll
+D:\Repositorio\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.pdb
+D:\Repositorio\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.genruntimeconfig.cache
+D:\Repositorio\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ref\ConsoleApp3.dll
