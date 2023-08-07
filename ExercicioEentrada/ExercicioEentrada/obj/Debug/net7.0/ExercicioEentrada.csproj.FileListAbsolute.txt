@@ -1,0 +1,15 @@
+D:\Repositorio\ExercicioEentrada\ExercicioEentrada\bin\Debug\net7.0\ExercicioEentrada.exe
+D:\Repositorio\ExercicioEentrada\ExercicioEentrada\bin\Debug\net7.0\ExercicioEentrada.deps.json
+D:\Repositorio\ExercicioEentrada\ExercicioEentrada\bin\Debug\net7.0\ExercicioEentrada.runtimeconfig.json
+D:\Repositorio\ExercicioEentrada\ExercicioEentrada\bin\Debug\net7.0\ExercicioEentrada.dll
+D:\Repositorio\ExercicioEentrada\ExercicioEentrada\bin\Debug\net7.0\ExercicioEentrada.pdb
+D:\Repositorio\ExercicioEentrada\ExercicioEentrada\obj\Debug\net7.0\ExercicioEentrada.csproj.AssemblyReference.cache
+D:\Repositorio\ExercicioEentrada\ExercicioEentrada\obj\Debug\net7.0\ExercicioEentrada.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio\ExercicioEentrada\ExercicioEentrada\obj\Debug\net7.0\ExercicioEentrada.AssemblyInfoInputs.cache
+D:\Repositorio\ExercicioEentrada\ExercicioEentrada\obj\Debug\net7.0\ExercicioEentrada.AssemblyInfo.cs
+D:\Repositorio\ExercicioEentrada\ExercicioEentrada\obj\Debug\net7.0\ExercicioEentrada.csproj.CoreCompileInputs.cache
+D:\Repositorio\ExercicioEentrada\ExercicioEentrada\obj\Debug\net7.0\ExercicioEentrada.dll
+D:\Repositorio\ExercicioEentrada\ExercicioEentrada\obj\Debug\net7.0\refint\ExercicioEentrada.dll
+D:\Repositorio\ExercicioEentrada\ExercicioEentrada\obj\Debug\net7.0\ExercicioEentrada.pdb
+D:\Repositorio\ExercicioEentrada\ExercicioEentrada\obj\Debug\net7.0\ExercicioEentrada.genruntimeconfig.cache
+D:\Repositorio\ExercicioEentrada\ExercicioEentrada\obj\Debug\net7.0\ref\ExercicioEentrada.dll

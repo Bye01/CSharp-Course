@@ -17,7 +17,6 @@ namespace Objetos_e_Projetos
             z = Console.ReadLine();
 
             array = Console.ReadLine().Split(' ');
-            array = Console.ReadLine().Split(' ');
 
             Console.WriteLine("-------");
             Console.WriteLine(frase);
