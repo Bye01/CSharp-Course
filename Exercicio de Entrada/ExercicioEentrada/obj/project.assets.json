@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositorio\\ExercicioEentrada\\ExercicioEentrada\\ExercicioEentrada.csproj",
-      "projectName": "ExercicioEentrada",
-      "projectPath": "D:\\Repositorio\\ExercicioEentrada\\ExercicioEentrada\\ExercicioEentrada.csproj",
+      "projectUniqueName": "D:\\Repositorio\\Exercicio de Entrada\\ExercicioEentrada\\Exercicio de Entrada.csproj",
+      "projectName": "Exercicio de Entrada",
+      "projectPath": "D:\\Repositorio\\Exercicio de Entrada\\ExercicioEentrada\\Exercicio de Entrada.csproj",
       "packagesPath": "C:\\Users\\yuriv\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositorio\\ExercicioEentrada\\ExercicioEentrada\\obj\\",
+      "outputPath": "D:\\Repositorio\\Exercicio de Entrada\\ExercicioEentrada\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\visual studios 3\\NuGetPackages"
