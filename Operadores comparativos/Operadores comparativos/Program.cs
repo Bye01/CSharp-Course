@@ -13,8 +13,6 @@ bool c5 = a <= 10;
 bool c6 = a >= 10;
 bool c7 = a == 10;
 bool c8 = a != 10;
-
-
 Console.WriteLine(c5);
 Console.WriteLine(c6);
 Console.WriteLine(c7);
