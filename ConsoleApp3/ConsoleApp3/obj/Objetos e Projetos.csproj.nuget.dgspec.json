@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositorio\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj": {}
+    "D:\\Repositorio\\ConsoleApp3\\ConsoleApp3\\Objetos e Projetos.csproj": {}
   },
   "projects": {
-    "D:\\Repositorio\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj": {
+    "D:\\Repositorio\\ConsoleApp3\\ConsoleApp3\\Objetos e Projetos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorio\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
-        "projectName": "ConsoleApp2",
-        "projectPath": "D:\\Repositorio\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectUniqueName": "D:\\Repositorio\\ConsoleApp3\\ConsoleApp3\\Objetos e Projetos.csproj",
+        "projectName": "Objetos e Projetos",
+        "projectPath": "D:\\Repositorio\\ConsoleApp3\\ConsoleApp3\\Objetos e Projetos.csproj",
         "packagesPath": "C:\\Users\\yuriv\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorio\\ConsoleApp2\\ConsoleApp2\\obj\\",
+        "outputPath": "D:\\Repositorio\\ConsoleApp3\\ConsoleApp3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\visual studios 3\\NuGetPackages"

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositorio\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
-      "projectName": "ConsoleApp3",
-      "projectPath": "D:\\Repositorio\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+      "projectUniqueName": "D:\\Repositorio\\ConsoleApp3\\ConsoleApp3\\Objetos_e_Projetos.csproj",
+      "projectName": "Objetos_e_Projetos",
+      "projectPath": "D:\\Repositorio\\ConsoleApp3\\ConsoleApp3\\Objetos_e_Projetos.csproj",
       "packagesPath": "C:\\Users\\yuriv\\.nuget\\packages\\",
       "outputPath": "D:\\Repositorio\\ConsoleApp3\\ConsoleApp3\\obj\\",
       "projectStyle": "PackageReference",
