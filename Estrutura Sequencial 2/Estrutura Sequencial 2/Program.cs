@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Globalization;
 
-namespace uri1002
+namespace namespace Estrutura_Sequencial_ex2
+
 {
     class Program
     {
