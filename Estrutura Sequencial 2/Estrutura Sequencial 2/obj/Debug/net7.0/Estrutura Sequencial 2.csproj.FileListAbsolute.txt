@@ -1,0 +1,15 @@
+D:\Repositorio\Estrutura Sequencial 2\Estrutura Sequencial 2\bin\Debug\net7.0\Estrutura Sequencial 2.exe
+D:\Repositorio\Estrutura Sequencial 2\Estrutura Sequencial 2\bin\Debug\net7.0\Estrutura Sequencial 2.deps.json
+D:\Repositorio\Estrutura Sequencial 2\Estrutura Sequencial 2\bin\Debug\net7.0\Estrutura Sequencial 2.runtimeconfig.json
+D:\Repositorio\Estrutura Sequencial 2\Estrutura Sequencial 2\bin\Debug\net7.0\Estrutura Sequencial 2.dll
+D:\Repositorio\Estrutura Sequencial 2\Estrutura Sequencial 2\bin\Debug\net7.0\Estrutura Sequencial 2.pdb
+D:\Repositorio\Estrutura Sequencial 2\Estrutura Sequencial 2\obj\Debug\net7.0\Estrutura Sequencial 2.csproj.AssemblyReference.cache
+D:\Repositorio\Estrutura Sequencial 2\Estrutura Sequencial 2\obj\Debug\net7.0\Estrutura Sequencial 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio\Estrutura Sequencial 2\Estrutura Sequencial 2\obj\Debug\net7.0\Estrutura Sequencial 2.AssemblyInfoInputs.cache
+D:\Repositorio\Estrutura Sequencial 2\Estrutura Sequencial 2\obj\Debug\net7.0\Estrutura Sequencial 2.AssemblyInfo.cs
+D:\Repositorio\Estrutura Sequencial 2\Estrutura Sequencial 2\obj\Debug\net7.0\Estrutura Sequencial 2.csproj.CoreCompileInputs.cache
+D:\Repositorio\Estrutura Sequencial 2\Estrutura Sequencial 2\obj\Debug\net7.0\Estrutura Sequencial 2.dll
+D:\Repositorio\Estrutura Sequencial 2\Estrutura Sequencial 2\obj\Debug\net7.0\refint\Estrutura Sequencial 2.dll
+D:\Repositorio\Estrutura Sequencial 2\Estrutura Sequencial 2\obj\Debug\net7.0\Estrutura Sequencial 2.pdb
+D:\Repositorio\Estrutura Sequencial 2\Estrutura Sequencial 2\obj\Debug\net7.0\Estrutura Sequencial 2.genruntimeconfig.cache
+D:\Repositorio\Estrutura Sequencial 2\Estrutura Sequencial 2\obj\Debug\net7.0\ref\Estrutura Sequencial 2.dll
