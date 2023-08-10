@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Estrutura_Sequencial_ex2
+namespace Estrutura_Sequencial_ex3
 {
     class Program
     {
