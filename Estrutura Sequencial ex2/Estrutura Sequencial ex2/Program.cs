@@ -1,10 +1,20 @@
-﻿namespace Estrutura_Sequencial_ex2
+﻿using System;
+using System.Globalization;
+
+namespace Estrutura_Sequencial_ex2
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+
+            double R, A, pi = 3.14159;
+
+            R = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            A = pi * R * R;
+
+            Console.WriteLine("A=" + A.ToString("F4", CultureInfo.InvariantCulture));
         }
     }
 }
