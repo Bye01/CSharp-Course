@@ -1,0 +1,15 @@
+D:\Repositorio\Estrutura Sequencial ex3\Estrutura Sequencial ex3\bin\Debug\net7.0\Estrutura Sequencial ex3.exe
+D:\Repositorio\Estrutura Sequencial ex3\Estrutura Sequencial ex3\bin\Debug\net7.0\Estrutura Sequencial ex3.deps.json
+D:\Repositorio\Estrutura Sequencial ex3\Estrutura Sequencial ex3\bin\Debug\net7.0\Estrutura Sequencial ex3.runtimeconfig.json
+D:\Repositorio\Estrutura Sequencial ex3\Estrutura Sequencial ex3\bin\Debug\net7.0\Estrutura Sequencial ex3.dll
+D:\Repositorio\Estrutura Sequencial ex3\Estrutura Sequencial ex3\bin\Debug\net7.0\Estrutura Sequencial ex3.pdb
+D:\Repositorio\Estrutura Sequencial ex3\Estrutura Sequencial ex3\obj\Debug\net7.0\Estrutura Sequencial ex3.csproj.AssemblyReference.cache
+D:\Repositorio\Estrutura Sequencial ex3\Estrutura Sequencial ex3\obj\Debug\net7.0\Estrutura Sequencial ex3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio\Estrutura Sequencial ex3\Estrutura Sequencial ex3\obj\Debug\net7.0\Estrutura Sequencial ex3.AssemblyInfoInputs.cache
+D:\Repositorio\Estrutura Sequencial ex3\Estrutura Sequencial ex3\obj\Debug\net7.0\Estrutura Sequencial ex3.AssemblyInfo.cs
+D:\Repositorio\Estrutura Sequencial ex3\Estrutura Sequencial ex3\obj\Debug\net7.0\Estrutura Sequencial ex3.csproj.CoreCompileInputs.cache
+D:\Repositorio\Estrutura Sequencial ex3\Estrutura Sequencial ex3\obj\Debug\net7.0\Estrutura Sequencial ex3.dll
+D:\Repositorio\Estrutura Sequencial ex3\Estrutura Sequencial ex3\obj\Debug\net7.0\refint\Estrutura Sequencial ex3.dll
+D:\Repositorio\Estrutura Sequencial ex3\Estrutura Sequencial ex3\obj\Debug\net7.0\Estrutura Sequencial ex3.pdb
+D:\Repositorio\Estrutura Sequencial ex3\Estrutura Sequencial ex3\obj\Debug\net7.0\Estrutura Sequencial ex3.genruntimeconfig.cache
+D:\Repositorio\Estrutura Sequencial ex3\Estrutura Sequencial ex3\obj\Debug\net7.0\ref\Estrutura Sequencial ex3.dll
